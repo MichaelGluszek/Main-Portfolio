@@ -126,18 +126,19 @@
   }
   
   #portfolio-items > div > p{
-      margin-bottom: -110px;
+      /* margin-bottom: -110px; */
+      margin-top: -120px;
       color: white;
       text-align: center;
       background-color: rgba(0, 0, 0, 0.6);
-      padding: 20px;
+      padding: 15px;
       position: relative;
       z-index: 2;
   }
   
   img{
       width: 100%;
-      height:220px;
+      height:230px;
   }
 
   @media (min-width: 100px){
